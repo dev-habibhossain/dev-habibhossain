@@ -19,8 +19,6 @@ clean architecture, and great user experiences.
 
 ---
 
-<img align="right" width="260" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNnMHEyamdkMXd4djZmYWlrcTRydG9mMG45dmp3azQyZmo3NWwwNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"/>
-
 ## 💫 About Me
 
 ```typescript
