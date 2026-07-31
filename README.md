@@ -17,7 +17,6 @@ clean architecture, and great user experiences.
 
 </div>
 
----
 
 ## 💫 About Me
 
