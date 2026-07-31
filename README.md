@@ -140,15 +140,15 @@ const habib = {
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HabibFahim15&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-habibhossain&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabibFahim15&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-habibhossain&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=HabibFahim15&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=dev-habibhossain&theme=tokyonight&hide_border=true"/>
 
 </p>
 ---
@@ -157,7 +157,7 @@ const habib = {
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HabibFahim15&theme=tokyo-night&hide_border=true&radius=16"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-habibhossain&theme=tokyo-night&hide_border=true&radius=16"/>
 
 </p>
 
@@ -236,7 +236,7 @@ function developer() {
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=HabibFahim15&label=Profile%20Views&style=for-the-badge&color=orange"/>
+<img src="https://komarev.com/ghpvc/?username=dev-habibhossain&label=Profile%20Views&style=for-the-badge&color=orange"/>
 
 </p>
 
@@ -246,7 +246,7 @@ function developer() {
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/HabibFahim15/HabibFahim15/output/snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/dev-habibhossain/dev-habibhossain/output/snake.svg" alt="Snake animation"/>
 
 </p>
 
