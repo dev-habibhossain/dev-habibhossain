@@ -2,26 +2,27 @@
 
 <img src="https://i.ibb.co.com/tHxgpdV/Neutral-Creative-Professional-Linked-In-Article-Cover-Image.png" width="100%" />
 
-# Hi 👋 I'm Habib Hossain
+# Hi 👋, I'm Habib Hossain
 
 ### Full Stack Developer • MERN Stack • Laravel • Bangladesh 🇧🇩
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Laravel;Building+Modern+Web+Applications;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Laravel;Building+Scalable+Web+Applications;Clean+Code+%7C+Modern+UI;Always+Learning+Something+New" />
 
 </div>
 
 ---
 
-<img align="right" height="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNnMHEyamdkMXd4djZmYWlrcTRydG9mMG45dmp3azQyZmo3NWwwNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+<img align="right" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNnMHEyamdkMXd4djZmYWlrcTRydG9mMG45dmp3azQyZmo3NWwwNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 
 ## 💫 About Me
 
 ```ts
 const habib = {
-    location: "Lakshmipur, Bangladesh 🇧🇩",
     role: "Full Stack Developer",
 
-    code: [
+    location: "Lakshmipur, Bangladesh 🇧🇩",
+
+    languages: [
         "JavaScript",
         "TypeScript",
         "PHP"
@@ -35,7 +36,7 @@ const habib = {
 
     backend: [
         "Node.js",
-        "Express",
+        "Express.js",
         "Laravel"
     ],
 
@@ -50,7 +51,7 @@ const habib = {
         "System Design"
     ],
 
-    funFact: "I enjoy turning ideas into real web applications."
+    motto: "Build • Learn • Improve • Repeat 🚀"
 }
 ```
 
@@ -58,21 +59,21 @@ const habib = {
 
 ## 🌐 Connect With Me
 
-<div align="left">
-
-<a href="https://www.youtube.com/@habibfahim71">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
+<p align="left">
 
 <a href="https://www.linkedin.com/in/dev-habibhossain/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@habibfahim71">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 <a href="https://www.facebook.com/devhabibhossain">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
@@ -80,7 +81,7 @@ const habib = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,php,laravel,firebase,git,github,vscode,figma&perline=9"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,php,laravel,firebase,git,github,vscode,figma,docker&perline=10"/>
 
 </div>
 
@@ -88,12 +89,50 @@ const habib = {
 
 # 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🛒 **ShopEase** | E-commerce & Merchant Management Platform | Laravel • Vue • MySQL |
-| 🌍 **Tour Asia** | Tourism Booking Website | MERN Stack |
-| 🏨 **SuiteTrack** | Hotel Management System | Next.js |
-| 🌱 **GreenGuide** | Eco-Friendly Platform | Next.js |
+### 🛒 ShopEase
+> **E-commerce & Merchant Management Platform**
+
+- 🔐 Role-based Authentication
+- 💳 Stripe Payment Integration
+- 📦 Product & Order Management
+- 🛍️ Merchant Dashboard
+
+**Stack:** Laravel • Vue.js • Inertia • MySQL
+
+---
+
+### 🌍 Tour Asia
+> **Modern Tourism Booking Platform**
+
+- ✈️ Tour Booking
+- 🔒 Firebase Authentication
+- 📍 Interactive Maps
+- ⭐ Reviews & Ratings
+
+**Stack:** React • Express • MongoDB
+
+---
+
+### 🏨 SuiteTrack
+> **Hotel Management System**
+
+- 🏨 Hotel Booking
+- 👥 Admin Dashboard
+- 📊 Reservation Management
+- 📱 Responsive Design
+
+**Stack:** Next.js • MongoDB
+
+---
+
+### 🌱 GreenGuide
+> **Eco-Friendly Community Platform**
+
+- 🌿 Environmental Awareness
+- 📍 Location-based Services
+- 🤝 Community Features
+
+**Stack:** Next.js • TypeScript
 
 ---
 
@@ -114,65 +153,66 @@ const habib = {
 </p>
 ---
 
-# 📈 Contribution Graph
+# 📈 GitHub Activity
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HabibFahim15&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HabibFahim15&theme=tokyo-night&hide_border=true&radius=16"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🚀 What I'm Working On
 
-<p align="center">
+```txt
+📌 Building Full Stack Web Applications
 
-<img src="https://github-profile-trophy.vercel.app/?username=HabibFahim15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10"/>
+🔥 Learning Laravel Ecosystem
 
-</p>
+⚡ Exploring Docker & Deployment
 
----
+🌍 Improving Backend Architecture
 
-# 📂 Current Goals
-
-- 🚀 Build production-ready Full Stack applications
-- 📚 Master Laravel & Next.js
-- ⚡ Learn Docker & Deployment
-- 🌍 Contribute to Open Source
-- 💼 Land a Full Stack Developer role
-
----
-
-# 💻 Development Environment
-
-```yaml
-Editor      : VS Code
-OS          : Linux Mint
-Terminal    : Bash
-Database    : MongoDB • MySQL
-Deployment  : Vercel • Netlify
-Versioning  : Git & GitHub
+📖 Practicing Data Structures & Algorithms
 ```
 
 ---
 
-# ☕ Fun Fact
+# 📚 Currently Learning
+
+<div align="center">
+
+| 🌱 Learning | 🚀 Next Goal |
+|-------------|--------------|
+| Laravel | Advanced Laravel |
+| Next.js | Server Components |
+| Docker | Containerized Deployment |
+| System Design | Scalable Architecture |
+| REST APIs | Secure API Design |
+
+</div>
+
+---
+
+# 💡 Development Philosophy
 
 ```javascript
-while (alive) {
-    eat();
-    code();
-    debug();
-    coffee();
-    sleep();
-    repeat();
+function developer() {
+    while (true) {
+        learn();
+        build();
+        solveProblems();
+        improve();
+    }
 }
 ```
 
+> *"Every project is an opportunity to learn something new."*
+
 ---
 
-# 📫 Let's Connect
+# 📬 Let's Connect
 
 <p align="center">
 
@@ -192,9 +232,11 @@ while (alive) {
 
 ---
 
+# 👀 Profile Views
+
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=HabibFahim15&label=Profile+Views&style=for-the-badge&color=orange"/>
+<img src="https://komarev.com/ghpvc/?username=HabibFahim15&label=Profile%20Views&style=for-the-badge&color=orange"/>
 
 </p>
 
@@ -212,8 +254,14 @@ while (alive) {
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⚡ Thanks for Visiting!
 
-*"Building modern web experiences, one commit at a time."*
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+<br><br>
+
+⭐ **If you enjoy my projects, don't forget to leave a star!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=120&section=footer"/>
 
 </div>
