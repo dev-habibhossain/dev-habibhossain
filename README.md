@@ -1,53 +1,68 @@
 <div align="center">
 
-<img src="https://i.ibb.co.com/tHxgpdV/Neutral-Creative-Professional-Linked-In-Article-Cover-Image.png" width="100%" />
+<img src="https://i.ibb.co.com/tHxgpdV/Neutral-Creative-Professional-Linked-In-Article-Cover-Image.png" width="100%" alt="Banner"/>
 
-# Hi 👋, I'm Habib Hossain
+<br>
 
-### Full Stack Developer • MERN Stack • Laravel • Bangladesh 🇧🇩
+# Hi, I'm Habib Hossain 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Laravel;Building+Scalable+Web+Applications;Clean+Code+%7C+Modern+UI;Always+Learning+Something+New" />
+### Full Stack Developer • MERN Stack • Laravel
+
+<p>
+Passionate about building scalable web applications with modern technologies,
+clean architecture, and great user experiences.
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Laravel;Building+Modern+Web+Applications;Always+Learning+New+Things" />
 
 </div>
 
+---
+
+<img align="right" width="260" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNnMHEyamdkMXd4djZmYWlrcTRydG9mMG45dmp3azQyZmo3NWwwNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+
 ## 💫 About Me
 
-```ts
+```typescript
 const habib = {
-    role: "Full Stack Developer",
+  role: "Full Stack Developer",
 
-    location: "Lakshmipur, Bangladesh 🇧🇩",
+  location: "Bangladesh 🇧🇩",
 
-    languages: [
-        "JavaScript",
-        "TypeScript",
-        "PHP"
-    ],
+  focus: [
+    "Frontend Development",
+    "Backend Development",
+    "REST APIs",
+    "Responsive UI"
+  ],
 
+  tech: {
     frontend: [
-        "React",
-        "Next.js",
-        "Tailwind CSS"
+      "React",
+      "Next.js",
+      "Tailwind CSS",
+      "TypeScript"
     ],
 
     backend: [
-        "Node.js",
-        "Express.js",
-        "Laravel"
+      "Node.js",
+      "Express.js",
+      "Laravel"
     ],
 
     database: [
-        "MongoDB",
-        "MySQL"
-    ],
+      "MongoDB",
+      "MySQL"
+    ]
+  },
 
-    currentlyLearning: [
-        "Laravel",
-        "Docker",
-        "System Design"
-    ],
+  currentlyLearning: [
+    "Laravel",
+    "Docker",
+    "System Design"
+  ],
 
-    motto: "Build • Learn • Improve • Repeat 🚀"
+  motto: "Keep Building. Keep Learning."
 }
 ```
 
@@ -55,7 +70,7 @@ const habib = {
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p>
 
 <a href="https://www.linkedin.com/in/dev-habibhossain/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -73,66 +88,28 @@ const habib = {
 
 ---
 
-# ⚒️ Tech Stack
+## ⚒️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,php,laravel,firebase,git,github,vscode,figma,docker&perline=10"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,php,laravel,mongodb,mysql,firebase,git,github,docker,vscode,figma&perline=10"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-### 🛒 ShopEase
-> **E-commerce & Merchant Management Platform**
-
-- 🔐 Role-based Authentication
-- 💳 Stripe Payment Integration
-- 📦 Product & Order Management
-- 🛍️ Merchant Dashboard
-
-**Stack:** Laravel • Vue.js • Inertia • MySQL
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🛒 **ShopEase** | Multi-vendor E-commerce & Merchant Management | Laravel • Vue • MySQL |
+| 🌍 **Tour Asia** | Tourism Booking Platform | MERN Stack |
+| 🏨 **SuiteTrack** | Hotel Management System | Next.js |
+| 🌱 **GreenGuide** | Eco-Friendly Community Platform | Next.js |
 
 ---
 
-### 🌍 Tour Asia
-> **Modern Tourism Booking Platform**
-
-- ✈️ Tour Booking
-- 🔒 Firebase Authentication
-- 📍 Interactive Maps
-- ⭐ Reviews & Ratings
-
-**Stack:** React • Express • MongoDB
-
----
-
-### 🏨 SuiteTrack
-> **Hotel Management System**
-
-- 🏨 Hotel Booking
-- 👥 Admin Dashboard
-- 📊 Reservation Management
-- 📱 Responsive Design
-
-**Stack:** Next.js • MongoDB
-
----
-
-### 🌱 GreenGuide
-> **Eco-Friendly Community Platform**
-
-- 🌿 Environmental Awareness
-- 📍 Location-based Services
-- 🤝 Community Features
-
-**Stack:** Next.js • TypeScript
-
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
 
@@ -149,7 +126,7 @@ const habib = {
 </p>
 ---
 
-# 📈 GitHub Activity
+## 📈 GitHub Contribution Graph
 
 <p align="center">
 
@@ -159,90 +136,46 @@ const habib = {
 
 ---
 
-# 🚀 What I'm Working On
-
-```txt
-📌 Building Full Stack Web Applications
-
-🔥 Learning Laravel Ecosystem
-
-⚡ Exploring Docker & Deployment
-
-🌍 Improving Backend Architecture
-
-📖 Practicing Data Structures & Algorithms
-```
-
----
-
-# 📚 Currently Learning
+## ⚡ Currently Building
 
 <div align="center">
 
-| 🌱 Learning | 🚀 Next Goal |
-|-------------|--------------|
-| Laravel | Advanced Laravel |
-| Next.js | Server Components |
-| Docker | Containerized Deployment |
-| System Design | Scalable Architecture |
-| REST APIs | Secure API Design |
+| 🚀 Project | 🛠️ Focus |
+|------------|-----------|
+| 🛒 ShopEase | Multi-vendor E-commerce |
+| 🌍 Tour Asia | Travel Booking Platform |
+| 🏨 SuiteTrack | Hotel Management |
+| 🌱 GreenGuide | Community Platform |
 
 </div>
 
 ---
 
-# 💡 Development Philosophy
+## 💻 Tech I Enjoy Working With
 
-```javascript
-function developer() {
-    while (true) {
-        learn();
-        build();
-        solveProblems();
-        improve();
-    }
-}
-```
+<div align="center">
 
-> *"Every project is an opportunity to learn something new."*
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel,mongodb,mysql,docker,git,github"/>
+
+</div>
 
 ---
 
-# 📬 Let's Connect
+## 👀 Profile Views
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/dev-habibhossain/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.youtube.com/@habibfahim71">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/devhabibhossain">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=dev-habibhossain&style=for-the-badge&label=PROFILE+VIEWS&color=FF6B35"/>
 
 </p>
 
 ---
 
-# 👀 Profile Views
+## 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=dev-habibhossain&label=Profile%20Views&style=for-the-badge&color=orange"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/dev-habibhossain/dev-habibhossain/output/snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/dev-habibhossain/dev-habibhossain/output/snake.svg" alt="Snake animation" />
 
 </p>
 
@@ -250,14 +183,24 @@ function developer() {
 
 <div align="center">
 
-## ⚡ Thanks for Visiting!
+### 🤝 Let's Connect
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<a href="https://www.linkedin.com/in/dev-habibhossain/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.youtube.com/@habibfahim71">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.facebook.com/devhabibhossain">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
 
 <br><br>
 
-⭐ **If you enjoy my projects, don't forget to leave a star!**
+> **"Build with purpose. Learn continuously. Ship confidently."** 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FF6B35&section=footer"/>
 
 </div>
