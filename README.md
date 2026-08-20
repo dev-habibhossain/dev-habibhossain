@@ -1,203 +1,165 @@
 <div align="center">
 
-<img src="https://i.ibb.co.com/tHxgpdV/Neutral-Creative-Professional-Linked-In-Article-Cover-Image.png" width="100%" alt="Banner"/>
+<img src="https://i.ibb.co.com/tHxgpdV/Neutral-Creative-Professional-Linked-In-Article-Cover-Image.png" width="100%" alt="Habib Hossain - Developer"/>
 
 <br>
 
-# Hi, I'm Habib Hossain 👋
+# Habib Hossain
 
-### Full Stack Developer • MERN Stack • Laravel
+### Full Stack Developer | MERN Stack & Laravel
 
-<p>
-Passionate about building scalable web applications with modern technologies,
-clean architecture, and great user experiences.
-</p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Laravel;Building+Modern+Web+Applications;Always+Learning+New+Things" />
-
-</div>
-
-
-## 💫 About Me
-
-```typescript
-const habib = {
-  role: "Full Stack Developer",
-
-  location: "Bangladesh 🇧🇩",
-
-  focus: [
-    "Frontend Development",
-    "Backend Development",
-    "REST APIs",
-    "Responsive UI"
-  ],
-
-  tech: {
-    frontend: [
-      "React",
-      "Next.js",
-      "Tailwind CSS",
-      "TypeScript"
-    ],
-
-    backend: [
-      "Node.js",
-      "Express.js",
-      "Laravel"
-    ],
-
-    database: [
-      "MongoDB",
-      "MySQL"
-    ]
-  },
-
-  currentlyLearning: [
-    "Laravel",
-    "Docker",
-    "System Design"
-  ],
-
-  motto: "Keep Building. Keep Learning."
-}
-```
+Building modern, responsive, and scalable web applications with clean code and practical solutions.
 
 <br>
 
-## 🌐 Connect With Me
+<a href="https://www.linkedin.com/in/dev-habibhossain/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@habibfahim71">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/devhabibhossain">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## About Me
+
+I'm a Full Stack Developer from Bangladesh focused on building reliable and user-friendly web applications.
+
+My main areas of interest include:
+
+* Frontend development with React and Next.js
+* Backend development with Node.js, Express.js and Laravel
+* REST API development and integration
+* Database design and management
+* Responsive and accessible user interfaces
+
+Currently improving my skills in **Laravel, Docker, and System Design**.
+
+---
+
+## Tech Stack
+
+### Frontend
 
 <p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+</p>
+
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mongodb,mysql,firebase" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma" />
+</p>
+
+---
+
+## Selected Projects
+
+### ShopEase
+
+**Multi-vendor E-commerce & Merchant Management Platform**
+
+Laravel-based e-commerce platform with multiple user roles, product management, merchant functionality, and payment integration.
+
+**Tech:** Laravel · Vue · Inertia · MySQL · Stripe · Tailwind CSS
+
+---
+
+### Tour Asia
+
+**Tourism & Travel Booking Platform**
+
+A MERN-based tourism platform designed for exploring destinations and managing tour bookings.
+
+**Tech:** React · Node.js · Express.js · MongoDB
+
+---
+
+### SuiteTrack
+
+**Hotel Management System**
+
+A modern hotel management application built with Next.js with a focus on clean UI and efficient management workflows.
+
+**Tech:** Next.js · TypeScript · MongoDB · Tailwind CSS
+
+---
+
+### GreenGuide
+
+**Eco-Friendly Community Platform**
+
+A community-focused web application designed to promote environmental awareness and sustainable living.
+
+**Tech:** Next.js · TypeScript · MongoDB · Tailwind CSS
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dev-habibhossain&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-habibhossain&layout=compact&hide_border=true&langs_count=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=dev-habibhossain&hide_border=true" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-habibhossain&hide_border=true&radius=6" />
+
+</div>
+
+---
+
+## Connect
+
+I'm open to opportunities, collaborations, and interesting web development projects.
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/dev-habibhossain/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/dev-habibhossain">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.youtube.com/@habibfahim71">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
 </a>
-
-<a href="https://www.facebook.com/devhabibhossain">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## ⚒️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,php,laravel,mongodb,mysql,firebase,git,github,docker,vscode,figma&perline=10"/>
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🛒 **ShopEase** | Multi-vendor E-commerce & Merchant Management | Laravel • Vue • MySQL |
-| 🌍 **Tour Asia** | Tourism Booking Platform | MERN Stack |
-| 🏨 **SuiteTrack** | Hotel Management System | Next.js |
-| 🌱 **GreenGuide** | Eco-Friendly Community Platform | Next.js |
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-habibhossain&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-habibhossain&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=dev-habibhossain&theme=tokyonight&hide_border=true"/>
-
-</p>
----
-
-## 📈 GitHub Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-habibhossain&theme=tokyo-night&hide_border=true&radius=16"/>
-
-</p>
-
----
-
-## ⚡ Currently Building
+<br>
 
 <div align="center">
 
-| 🚀 Project | 🛠️ Focus |
-|------------|-----------|
-| 🛒 ShopEase | Multi-vendor E-commerce |
-| 🌍 Tour Asia | Travel Booking Platform |
-| 🏨 SuiteTrack | Hotel Management |
-| 🌱 GreenGuide | Community Platform |
-
-</div>
-
----
-
-## 💻 Tech I Enjoy Working With
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel,mongodb,mysql,docker,git,github"/>
-
-</div>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=dev-habibhossain&style=for-the-badge&label=PROFILE+VIEWS&color=FF6B35"/>
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/dev-habibhossain/dev-habibhossain/output/snake.svg" alt="Snake animation" />
-
-</p>
-
----
-
-<div align="center">
-
-### 🤝 Let's Connect
-
-<a href="https://www.linkedin.com/in/dev-habibhossain/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.youtube.com/@habibfahim71">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.facebook.com/devhabibhossain">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<br><br>
-
-> **"Build with purpose. Learn continuously. Ship confidently."** 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FF6B35&section=footer"/>
+**Build with purpose. Learn continuously.**
 
 </div>
