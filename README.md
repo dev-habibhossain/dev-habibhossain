@@ -83,7 +83,7 @@ const habib = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)]([[https://dev-habibhossain.netlify.app](https://dev-habibhossain.vercel.app)](https://dev-habibhossain.vercel.app))
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dev-habibhossain.vercel.app)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-habibhossain/)
 &nbsp;
